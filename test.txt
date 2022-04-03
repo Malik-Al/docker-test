@@ -1,0 +1,4 @@
+docker build .
+docker run -p 5000:5000 <IMAGE ID>
+docker ps = "list all CONTAINER ID"
+docker stop <CONTAINER ID>
